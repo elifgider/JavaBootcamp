@@ -1,3 +1,4 @@
+package Bootcamp;
 public class variables {
 //reusability=bir kere yaz her yerde kullan!
     public static void main(String[] args) {
